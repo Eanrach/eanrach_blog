@@ -1,3 +1,3 @@
 - 1
   - 10
-    - [记几次失误](10\记几次失误.md)
+    - [记几次失误](https://github.com/Eanrach/eanrach_blog/wiki/%E8%AE%B0%E5%87%A0%E6%AC%A1%E5%A4%B1%E8%AF%AF)
