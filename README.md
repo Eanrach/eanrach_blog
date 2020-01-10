@@ -1,4 +1,9 @@
+# [BLOG_HOME](https://github.com/Eanrach/eanrach_blog/wiki/Eanrach's-blog) 
+
+------
+
 # Eanrach's blog
+
 对本人做一次自我介绍：
 
 ​	2019年毕业生，现于~~某运营商~~做驻场渗透测试，主要负责日常渗透工作和部分安全建设，在信息安全领域还是个小学生。
